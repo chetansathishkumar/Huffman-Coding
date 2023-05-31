@@ -27,9 +27,9 @@ Print the characters and its huffmancode.
 
 ## Program:
 
-*/ Developed by: Pabbarthi Chetan Sathish Kumar
+*Developed by: Pabbarthi Chetan Sathish Kumar
 <br>
-Register Number: 212220230033 /*
+Register Number: 212220230033 *
 
 
 ``` Python
