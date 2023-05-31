@@ -34,8 +34,6 @@ Register Number: 212220230033 *
 
 ``` Python
 # Get the input String
-# Get the input String
-# Get the input String
 string = 'chetan 212220230033'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
@@ -43,10 +41,6 @@ class NodeTree(object):
         self.right=right
     def children(self):
         return (self.left,self.right)
-    def nodes (self):
-        return (self.left,self.right)
-    def __str__(self):
-        return '%s %s' %(self.left,self.right)
         
         
 # Create tree nodes
